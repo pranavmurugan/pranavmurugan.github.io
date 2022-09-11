@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning | Biophysical Modeling and Simulation
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cover_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MIT Building E25-350</p>
+    <p>77 Massachusetts Avenue</p>
+    <p>Cambridge, MA 02139</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an M.Eng. student at MIT in the lab of [Arup Chakraborty](http://chakrabortygroup.scripts.mit.edu/). 
+My research focuses on developing biophysical models of the adaptive immune system and viral dynamics. I am also investigating the use of quantum machine learning to solve problems in biology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I received my S.B. from MIT with a double major in Physics and in Electrical Engineering and Computer Science. Over the course of my undergraduate degree, I worked as a machine learning research intern at [Genesis Therapeutics](https://www.genesistherapeutics.ai/), 
+and in the labs of [Mark Harnett](https://www.markharnett.org/) (MIT) and [Wesley Tansey](https://www.mskcc.org/research-areas/labs/wesley-tansey) (MSKCC).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I dance competitively with teams at MIT and enjoy working out and cooking.
+
+Feel free to take a look around! I have a selected list of publications and projects in a wide range of topics highlighted in the respective sections. Currently, I'm best contacted at pmurugan [at] mit [dot] edu.
