@@ -2,13 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: null
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: [MIT, other]
 horizontal: false
 ---
-Under construction.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

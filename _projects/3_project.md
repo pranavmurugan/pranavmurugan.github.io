@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Learning Across Scales in Animals and Artificial Neural Networks
+description: Review paper of different learning modes in biology and ANNs, for the Fall 2021 class 6.881 Tissue vs Silicon in Machine Learning
+img: assets/img/3_project_img1.png
+redirect: https://medium.com/p/6935d6c401bf
 importance: 3
-category: work
+category: MIT
 ---
 
 Every project has a beautiful feature showcase page.
