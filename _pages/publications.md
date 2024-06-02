@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications and conference presentations.
-years: [2022,2020, 2017, 2016]
+years: [2024,2020, 2017, 2016]
 nav: true
 nav_order: 1
 ---
