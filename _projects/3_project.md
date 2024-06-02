@@ -3,7 +3,7 @@ layout: page
 title: Learning Across Scales in Animals and Artificial Neural Networks
 description: Review paper of different learning modes in biology and ANNs, for the Fall 2021 class 6.881 Tissue vs Silicon in Machine Learning
 img: assets/img/3_project_img1.png
-redirect: https://medium.com/p/6935d6c401bf
+redirect: https://medium.com/@mpranav81/learning-across-scales-in-animals-and-artificial-neural-networks-6935d6c401bf
 importance: 3
 category: MIT
 ---
