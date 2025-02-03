@@ -7,7 +7,7 @@ importance: 1
 category: MIT
 ---
 
-<h4>Full text: <a href="assets/pdf/6_871final_paper" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a></h4>
+<h4>Full text: <a href="/assets/pdf/6_871final_paper.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a></h4>
 <br/>
 A summary is shown below.
 <br/><br/>
